@@ -1,4 +1,4 @@
-__author__ = 'lantos'
+
 
 import hashlib
 import os

@@ -1,4 +1,3 @@
-__author__ = 'lantos'
 
 from File import *
 
